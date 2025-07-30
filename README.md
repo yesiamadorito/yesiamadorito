@@ -28,8 +28,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 
 ## 🎖 Certifications
 
-**- [The Complete SQL Bootcamp: Go from Zero to Hero from Udemy](https://www.udemy.com/certificate/UC-446341f2-f16f-4d07-98cf-c5fa62689381/)**
-**- Python Bootcamp: From Zero to Hero from Udemy**
+-  [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-446341f2-f16f-4d07-98cf-c5fa62689381/)
 ---
 
 ## 📬 Let's Connect
