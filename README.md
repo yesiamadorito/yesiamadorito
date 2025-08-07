@@ -13,7 +13,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 
 ## 📂 Featured Projects
 
-
+- [Loan Risk Repayment Project](https://github.com/yesiamadorito/loan_risk_assessment)
 ---
 
 ## 🧰 Tools & Tech
