@@ -29,7 +29,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 ## 🎖 Certifications
 
 -  [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-446341f2-f16f-4d07-98cf-c5fa62689381/)
--  [Power BI Essential Training (2024](https://www.linkedin.com/learning/certificates/2ee27f014df0f51e9dfc8e78e1f274b68f86f8a4616735bf352e70b2de8ad3d2?trk=share_certificate)
+-  [Power BI Essential Training (2024)](https://www.linkedin.com/learning/certificates/2ee27f014df0f51e9dfc8e78e1f274b68f86f8a4616735bf352e70b2de8ad3d2?trk=share_certificate)
 ---
 
 ## 📬 Let's Connect
